@@ -10,7 +10,7 @@
 - Rock beats Scissors
 - Scissors beats Paper
 
-## BPNUS
+## BONUS
 
 - Scissors beats Paper
 - Paper beats Rock
@@ -23,7 +23,7 @@
 - Lizard beats Paper
 - Spock beats Rock
 
-## Where to find everything
+## WHERE TO FIND ANYTHING
 
 - The designs are in JPG static format. This will mean that you'll need to use your best judgment for styles such as `font-size`, `padding` and `margin`. 
   This should help train your eye to perceive differences in spacings and sizes.
